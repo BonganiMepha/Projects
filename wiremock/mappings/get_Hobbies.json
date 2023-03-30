@@ -1,0 +1,13 @@
+{
+ 
+   "request" : {
+     "method": "GET",
+     "url": "/api/hobbies"
+ 
+   },
+   "response" : {
+     "status" : 200,
+     "bodyFileName": "../__files/get_hobbies_response.json"
+   }
+ 
+}

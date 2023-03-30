@@ -1,0 +1,14 @@
+{
+ 
+   "request" : {
+     "method": "GET",
+     "url": "/api/interest"
+ 
+   },
+   "response" : {
+     "status" : 200,
+     "bodyFileName": "../__files/get_interest_response.json"
+   }
+ 
+}
+

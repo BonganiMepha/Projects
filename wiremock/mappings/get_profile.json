@@ -1,0 +1,15 @@
+//request section
+ 
+{
+ 
+   "request" : {
+     "method": "GET",
+     "url": "/api/profile"
+ 
+   },
+   "response" : {
+     "status" : 200,
+     "bodyFileName": "../__files/get_profile_response.json"
+   }
+ 
+}
